@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Macnal",
+  "version": "0.1.0",
+  "description": "sed 's/マック/マクナル/'",
+  "content_scripts": [{
+    "matches": ["https://*/*"],
+    "js": ["content.js"]
+  }]
+}
