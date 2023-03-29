@@ -1,3 +1,1 @@
-# macnal
-
-This is "Migdal Babel".
+# כולם ביחד נבנה את מגדל בבל!
